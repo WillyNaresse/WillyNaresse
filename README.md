@@ -1,5 +1,4 @@
-## Olá 😁
-
+## Olá 😁 Me chamam de Willão, ainda estou começando nesse mundo mas vou chegar lá!
  <div>
   <a href="https://github.com/thewillao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewillao&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -13,7 +12,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Contato:
  
 <div> 
   <a href="https://www.instagram.com/willynaresse/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

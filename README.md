@@ -1,5 +1,5 @@
 ## Hello! 😁
-My name is Willy, I am an enthusiastic Junior Front-End Developer from Uberlândia - MG in Brazil. Recently, I have started working with Angular. I view myself as a kind, loyal, communicative, focused, and highly ambitious individual. With a steadfast commitment to achieving my goals, I am currently seeking professional opportunities that allow me to apply and enhance my skills. My journey is long, and as such, In the pursuit of my dreams, I will consistently strive to make significant contributions and to continually evolve, both personally and professionally.
+I'm Willy, a passionate Junior Front-End Developer from Uberlândia, MG, Brazil, specializing in Angular. I consider myself kind, loyal, communicative, focused, and highly ambitious. Committed to achieving my goals, I am currently seeking professional opportunities to apply and enhance my skills. My journey is ongoing, and in pursuit of my dreams, I strive to make significant contributions and continually evolve, both personally and professionally.
 <hr>
 
 ## Technologies:

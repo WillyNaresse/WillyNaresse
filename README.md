@@ -1,5 +1,8 @@
 ## Hello! 😁
-I'm Willy, a passionate Junior Front-End Developer from Uberlândia - MG, Brazil, specializing in Angular. I consider myself kind, loyal, communicative, focused, and highly ambitious. Committed to achieving my goals, I am currently seeking professional opportunities to apply and enhance my skills. My journey is ongoing, and in pursuit of my dreams, I strive to make significant contributions and continually evolve, both personally and professionally.
+<br>
+<img src="https://komarev.com/ghpvc/?username=TheWillao&label=PROFILE+VISITS&style=for-the-badge&color=C3002F" alt="Profile views" />
+<br>
+I'm Willy, a passionate Front-End Developer from Uberlândia - MG, Brazil, specializing in <strong>Angular</strong>. I consider myself kind, loyal, communicative, focused, and highly ambitious. Committed to achieving my goals, I am currently seeking professional opportunities to apply and enhance my skills. My journey is ongoing, and in pursuit of my dreams, I strive to make significant contributions and continually evolve, both personally and professionally.
 <hr>
 
 ## Technologies:
@@ -12,6 +15,7 @@ I'm Willy, a passionate Junior Front-End Developer from Uberlândia - MG, Brazil
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=00d8ff">
  </section>
 
 ## Contacts:
@@ -21,3 +25,9 @@ I'm Willy, a passionate Junior Front-End Developer from Uberlândia - MG, Brazil
   <a href="https://www.linkedin.com/in/willy-naresse-l%C3%BAcio-079448253/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230072b1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:willnaresse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23ff4343?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </section>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/krishealty/T-Rex-runner/blob/main/assets/screenshot.gif?raw=true" /> 
+</div>

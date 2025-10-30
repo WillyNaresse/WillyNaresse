@@ -14,6 +14,7 @@ I'm Willy, a passionate Front-End Developer from Uberlândia - MG, Brazil, speci
   <img alt="React" src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=00d8ff">
   <img alt="Vue" src="https://img.shields.io/badge/Vue-425365?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-fff?style=for-the-badge&logo=jquery&logoColor=0769AD">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
  </section>
 
 ## Contacts:
